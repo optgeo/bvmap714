@@ -6,7 +6,7 @@
   "author": "Hidenori Fujimura <hfu@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.6.4",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.6.3",
     "babelify": "^10.0.0"
   }
